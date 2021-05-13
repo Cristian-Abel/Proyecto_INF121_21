@@ -1,0 +1,16 @@
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\obj\Debug\net5.0\Proyecto_inf121_2021.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\obj\Debug\net5.0\Proyecto_inf121_2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\obj\Debug\net5.0\Proyecto_inf121_2021.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\obj\Debug\net5.0\Proyecto_inf121_2021.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\obj\Debug\net5.0\Proyecto_inf121_2021.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\bin\Debug\net5.0\Proyecto_inf121_2021.exe
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\bin\Debug\net5.0\Proyecto_inf121_2021.deps.json
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\bin\Debug\net5.0\Proyecto_inf121_2021.runtimeconfig.json
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\bin\Debug\net5.0\Proyecto_inf121_2021.runtimeconfig.dev.json
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\bin\Debug\net5.0\Proyecto_inf121_2021.dll
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\bin\Debug\net5.0\ref\Proyecto_inf121_2021.dll
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\bin\Debug\net5.0\Proyecto_inf121_2021.pdb
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\obj\Debug\net5.0\Proyecto_inf121_2021.dll
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\obj\Debug\net5.0\ref\Proyecto_inf121_2021.dll
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\obj\Debug\net5.0\Proyecto_inf121_2021.pdb
+C:\Users\Cristian\source\repos\Proyecto_inf121_2021\Proyecto_inf121_2021\obj\Debug\net5.0\Proyecto_inf121_2021.genruntimeconfig.cache
